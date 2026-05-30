@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-41CD52?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-557C94?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)
+[![License: GPL v3](https://shields.io)](https://gnu.org)
 ![Status](https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge)
 
 ---
