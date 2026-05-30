@@ -1,0 +1,50 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 0xCosmix <https://github.com/0xCosmix>
+
+0xRecon - Advanced OSINT Framework
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+TERMS AND CONDITIONS:
+
+1. PERMISSIONS:
+   - You can use this software for personal, educational, and research purposes
+   - You can modify the source code for your own use
+   - You can study how the software works
+
+2. RESTRICTIONS:
+   - You CANNOT sell this software or modified versions of it
+   - You CANNOT distribute modified versions without including this license
+   - You CANNOT use this software for illegal purposes
+   - You CANNOT remove this license from copies
+
+3. CONDITIONS:
+   - If you modify and distribute this software, you MUST:
+     * Include this license with your distribution
+     * Clearly indicate what you changed
+     * Make your modified source code available under GPL v3
+     * Keep the original copyright notice
+
+---
+
+DISCLAIMER:
+This tool is provided "AS IS" without warranty of any kind. The author is not
+responsible for misuse of this tool. Always ensure you have explicit written
+permission before testing any system you do not own.
+
+For the full GPL v3 license text, visit: https://www.gnu.org/licenses/gpl-3.0.txt
